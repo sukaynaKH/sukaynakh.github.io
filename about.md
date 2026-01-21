@@ -28,5 +28,3 @@
 I'm a final year Doctoral Researcher at the University of Konstanz, supervised by Prof. Nils Weidmann and focusing on Trust in Science in Autocracies.
 
 I enjoy volunteering as a graphic designer at my local independent cinema, strength training, boxing and skiing. 
-
-P.S. There are some easter eggs on this website - find one and drop the emoji in your email subject line!
