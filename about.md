@@ -1,7 +1,7 @@
 <div class="about-header">
-  <img src="main/standin.jpg" alt="Portrait of Sukayna Younger-Khan" class="about-avatar" width="160" height="160" loading="lazy" />
+  <img src="main/standin.jpg" alt="Portrait" class="about-avatar" width="160" height="160" loading="lazy" />
   <div class="about-header-content">
-    <h1 class="title">Sukayna Younger-Khan</h1>
+    <h1 class="title">No Name</h1>
     <div class="about-socials" style="display:flex;gap:1.25rem;align-items:center;flex-wrap:wrap;margin-top:0.5rem;">
   <a href="https://scholar.google.com/citations?user=K3a7RDwAAAAJ&hl=en" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:0.5rem;text-decoration:none;color:var(--color-accent-2);">
     <svg viewBox="0 0 24 24" role="img" aria-hidden="true" style="width:20px;height:20px;opacity:0.9;" xmlns="http://www.w3.org/2000/svg" fill="currentColor">
@@ -25,6 +25,6 @@
   </div>
 </div>
 
-I'm a final year Doctoral Researcher at the University of Konstanz, supervised by Prof. Nils Weidmann and focusing on Trust in Science in Autocracies.
+I'm a final year Doctoral Researcher at the University of Konstanz, focusing on Trust in Science in Autocracies.
 
-I enjoy volunteering as a graphic designer at my local independent cinema, strength training, boxing and skiing. 
+I enjoy volunteering as a graphic designer at my local independent cinema, strength training, hiking, and skiing. 
