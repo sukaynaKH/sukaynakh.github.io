@@ -8,7 +8,7 @@
     <span class="timeline-dot"></span>
     <div class="timeline-header">
       <span class="timeline-org">University of Konstanz</span>
-      <span class="timeline-role">Independent Doctoral Fellowr</span>
+      <span class="timeline-role">Independent Doctoral Fellow</span>
       <span class="timeline-dates">Oct 2022 – <strong class="text-accent">Present</strong></span>
     </div>
     <div class="timeline-meta">Cluster of Excellence, The Politics of Inequality • Konstanz, Germany</div>
@@ -62,6 +62,8 @@ survey experiments.</div>
   </div>
   </div>
 
+  
+
   # Teaching Experience
 
 
@@ -112,6 +114,7 @@ survey experiments.</div>
     <div class="timeline-desc">BA level Courses: Conflict & Cooperation; Scientific Reasoning (full list on request); Learning Advisor, Applied Learning Committee & Project Leader.</div>
   </div>
   </div>
+  
 
 # Education
 
