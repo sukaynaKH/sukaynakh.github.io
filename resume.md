@@ -106,7 +106,6 @@ survey experiments.</div>
     <div class="timeline-meta">Essex, UK</div>
     <div class="timeline-desc">BA level Courses: Conflict & Cooperation; Scientific Reasoning (full list on request); Learning Advisor, Applied Learning Committee & Project Leader.</div>
   </div>
-</div>
 
 # Education
 
@@ -153,4 +152,5 @@ survey experiments.</div>
     <div class="timeline-meta">Cardiff, UK • On-site</div>
     <div class="timeline-desc">Exchange at INTI International University Malaysia (2013-15). Dean's Honour Roll 2014 & 2015.</div>
   </div>
+</div>
 </div>
