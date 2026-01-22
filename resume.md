@@ -151,6 +151,6 @@ survey experiments.</div>
       <span class="timeline-dates">January 2017</span>
     </div>
     <div class="timeline-meta">Cardiff, UK • On-site</div>
-    <div class="timeline-desc">Exchange at INTI International University Malaysia (2013-15)</div>
+    <div class="timeline-desc">Exchange at INTI International University Malaysia (2013-15). Dean's Honour Roll 2014 & 2015.</div>
   </div>
 </div>
