@@ -32,7 +32,7 @@ survey experiments.</div>
     <span class="timeline-dot"></span>
     <div class="timeline-header">
       <span class="timeline-org">University of Glasgow</span>
-      <span class="timeline-role">Visiting Doctoral Fellow, College of Social Sciences</span>
+      <span class="timeline-role">Visiting Doctoral Fellow</span>
       <span class="timeline-dates">September – December 2025</span>
     </div>
     <div class="timeline-meta">Glasgow, UK</div>
