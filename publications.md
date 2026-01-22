@@ -3,7 +3,6 @@
 ## 2025
 
 <div class="publication-card">
-    </div>
     <div class="publication-content">
         <h3 class="publication-title">
             <a href="/AgentBreeder" class="publication-link">
