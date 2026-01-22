@@ -60,8 +60,13 @@ survey experiments.</div>
     <div class="timeline-meta">Hybrid • Contract</div>
     <div class="timeline-desc">Extracted and coded event data following real-time activity reports for BLM protests in the US. R, Alteryx for data management; Tableau for analysis and visualisation.</div>
   </div>
+  </div>
 
   # Teaching Experience
+
+
+
+  <div class="timeline">
 
   <div class="timeline-item">
     <span class="timeline-dot"></span>
@@ -106,8 +111,13 @@ survey experiments.</div>
     <div class="timeline-meta">Essex, UK</div>
     <div class="timeline-desc">BA level Courses: Conflict & Cooperation; Scientific Reasoning (full list on request); Learning Advisor, Applied Learning Committee & Project Leader.</div>
   </div>
+  </div>
 
 # Education
+
+
+
+<div class="timeline">
 
   <div class="timeline-item">
     <span class="timeline-dot"></span>
