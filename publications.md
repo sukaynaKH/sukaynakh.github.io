@@ -3,44 +3,35 @@
 ## 2025
 
 <div class="publication-card">
-    <div class="publication-content">
-        <h3 class="publication-title">
-            <a href="" class="publication-link">
-                Infusion: Influence Function-guided Model Poisoning via Training Document Attacks
-            </a>
-        </h3>
-        <div class="publication-venue">UK AISI Challenge Fund • Preprint</div>
-        <div class="publication-authors">J Rosser, Robert Kirk, Edward Grefenstette, Jakob Foerster, Laura Ruis</div>
-        <div class="publication-year">2026</div>
-        <div class="publication-tags">
-            <span class="tag tag-safety">AI Security</span>
-            <a href="" class="tag tag-arxiv">
-            PREPRINT COMING SOON!</a>
-        </div>
-    </div>
-</div>
-
-## 2024
-
-<div class="publication-card">
-    <div class="publication-image">
-        <img src="assets/AgentBreederDiagramJPG.jpg" alt="AgentBreeder publication">
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
             <a href="/AgentBreeder" class="publication-link">
-                AgentBreeder: Mitigating the AI Safety Impact of Multi-Agent Scaffolds via Self-Improvement
+                Mapping patterns of trust in science and scientists
             </a>
         </h3>
-        <div class="publication-venue">NeurIPS 2025 spotlight</div>
-        <div class="publication-authors">J Rosser, Jakob Foerster</div>
+        <div class="publication-venue">Current Opinion in Psychology</div>
+        <div class="publication-authors">Sukayna Younger-Khan</div>
         <div class="publication-year">2025</div>
-        <div class="publication-tags">
-            <span class="tag tag-safety">Multi-Agent Safety</span>
-            <a href="https://arxiv.org/abs/2502.00757" class="tag tag-arxiv">ARXIV</a>
-            <a href="https://github.com/J-Rosser-UK/AgentBreeder" class="tag tag-github">GITHUB</a>
         </div>
     </div>
 </div>
+    </div>
+</div>
+
+
+## 2024
+
+<div class="publication-card">
+    <div class="publication-content">
+        <h3 class="publication-title">
+            <a href="" class="publication-link">
+                Consistent effects of science and scientist characteristics on public trust across political regimes
+            </a>
+        </h3>
+        <div class="publication-venue">Humanities and Social Sciences Connections • Journal Article</div>
+        <div class="publication-authors">Sukayna Younger-Khan, Nils. B. Weidmann, Lisa Oswald</div>
+        <div class="publication-year">2024</div>
+        </div>
     </div>
 </div>
