@@ -77,7 +77,7 @@ survey experiments.</div>
       <span class="timeline-role">Teaching Assistant</span>
       <span class="timeline-dates">February 2026</span>
     </div>
-    <div class="timeline-meta">Konstanz, Germany • On-site</div>
+    <div class="timeline-meta">Konstanz, Germany • Online</div>
     <div class="timeline-desc">Finetuning LLMs; AI Assisted Text Analysis</div>
   </div>
 
@@ -127,7 +127,7 @@ survey experiments.</div>
     <div class="timeline-header">
       <span class="timeline-org">University of Konstanz • In progress</span>
       <span class="timeline-role">PhD Candidate</span>
-      <span class="timeline-dates">October 2022 - October 2026</span>
+      <span class="timeline-dates">October 2022 - September 2026</span>
     </div>
     <div class="timeline-meta">Konstanz, Germany • Hybrid</div>
     <div class="timeline-desc">Comparative Politics, Interdisciplinary, Computational Methods. Working title: "Under Pressure: A New Age of Science in Non-Democracies". Committee: Nils B. Weidmann; David Garcia; Anja Neundorf</div>
