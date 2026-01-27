@@ -25,8 +25,8 @@
   </div>
 </div>
 
-Welcome! I am a computational social scientist and doctoral fellow at the University of Konstanz researching the comparative politics of science, academia and education. Broadly, I ivestigate trust in science and scientists, political communication and science policy, and the imapct of democratic backsliding on collaboration networks. My research uses a mix of computational and advanced quantitative approaches (NLP, network science, big data, causal inference methods etc.)
+Welcome! I am a computational social scientist and doctoral fellow at the University of Konstanz, researching the comparative politics of science, academia and education. Broadly, I ivestigate trust in science and scientists, political communication and science policy, and the imapct of democratic backsliding on collaboration networks. My research uses a mix of computational and advanced quantitative approaches (NLP, network science, big data, causal inference methods etc.)
 
-I primarily code in Python, R and SQL, with some Bash scripting and basic HTML/CSS/Javascript.
+I code in Python, R and SQL, with some Bash scripting and HTML/CSS/Javascript.
 
 In my free time, I enjoy strength training, boxing, hiking, and skiing. In a previous life, I was a qualified legal advisor in the UK.
