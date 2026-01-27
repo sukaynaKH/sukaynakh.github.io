@@ -75,7 +75,7 @@
                 Consistent effects of science and scientist characteristics on public trust across political regimes
             </a>
         </h3>
-        <div class="publication-venue">Humanities and Social Sciences Connections • Journal Article</div>
+        <div class="publication-venue">Humanities and Social Sciences • Journal Article</div>
         <div class="publication-authors">Sukayna Younger-Khan, Nils. B. Weidmann, Lisa Oswald</div>
         <div class="publication-year">2024</div>
         </div>
@@ -93,7 +93,7 @@ div class="publication-card">
             </a>
         </h3>
         <div class="publication-venue">SCRIPTS Working Paper Series #17 • Working Paper</div>
-        <div class="publication-authors">Sukayna Younger-Khan, R. Weiss</div>
+        <div class="publication-authors">Sukayna Younger-Khan, Rebecca Weiss</div>
         <div class="publication-year">2022</div>
         </div>
     </div>
