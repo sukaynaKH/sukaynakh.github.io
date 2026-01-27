@@ -85,7 +85,7 @@
 
 ## 2022
 
-div class="publication-card">
+<div class="publication-card">
     <div class="publication-content">
         <h3 class="publication-title">
             <a href="" class="publication-link">
@@ -99,7 +99,7 @@ div class="publication-card">
     </div>
 </div>
 
-div class="publication-card">
+<div class="publication-card">
     <div class="publication-content">
         <h3 class="publication-title">
             <a href="https://advance.sagepub.com/doi/10.31124/advance.21623526.v1" class="publication-link">
