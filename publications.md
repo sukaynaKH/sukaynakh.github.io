@@ -22,7 +22,7 @@
     <div class="publication-content">
         <h3 class="publication-title">
             <a href="/AgentBreeder" class="publication-link">
-                Navigating Instability: How Do Political Transitions Reshape Scientific Collaboration?
+                Navigating instability: How do political transitions reshape scientific collaboration?
             </a>
         </h3>
         <div class="publication-venue">Working Paper</div>
@@ -56,7 +56,7 @@
     <div class="publication-content">
         <h3 class="publication-title">
             <a href="" class="publication-link">
-                Cheap Talk? Political Rhetoric and Science Policy of Authoritarian Leaders
+                Cheap Talk? Political rhetoric and science policy of authoritarian leaders
             </a>
         </h3>
         <div class="publication-venue">Under Review</div>
