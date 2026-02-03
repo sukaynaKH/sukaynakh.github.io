@@ -1,5 +1,3 @@
-# Research
-
 ## Publications
 
 <div class="publication-card">
