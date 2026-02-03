@@ -102,7 +102,6 @@
 
 # Consulting
 
-
   <div class="timeline">
 
   <div class="timeline-item">
@@ -120,7 +119,7 @@
     <span class="timeline-dot"></span>
     <div class="timeline-header">
       <span class="timeline-org">Triangle</span>
-      <span class="timeline-role">Teaching Fellow</span>
+      <span class="timeline-role">Legal Advisor</span>
       <span class="timeline-dates">August 2018 – Jan 2019</span>
     </div>
     <div class="timeline-meta">Brighton, UK</div>
