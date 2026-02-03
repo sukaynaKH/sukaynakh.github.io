@@ -29,6 +29,6 @@ Welcome! I am a computational social scientist and doctoral fellow at the Univer
 
 Broadly, I investigate trust in science and scientists, the interplay of political communication and science/technology policy, and how democratic backsliding reshapes academic collaboration. To answer these questions, I employ a toolkit of computational methods, including natural language processing, network science, and causal inference, although I have a soft spot for survey experiments.
 
-I work with Python, R, SQL, Bash (often), JS/HTML/CSS (less often).
+I work with Python, R, SQL, Bash (often), JS/HTML/CSS (less often), Rust and Go (still learning). 
 
 In my free time, I enjoy strength training, boxing, hiking, and skiing. In a previous life, I qualified as a legal advisor in the UK.
