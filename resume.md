@@ -1,10 +1,9 @@
 # Research Experience
 
 
-
 <div class="timeline">
 
-<div class="timeline-item">
+  <div class="timeline-item">
     <span class="timeline-dot"></span>
     <div class="timeline-header">
       <span class="timeline-org">Exzellenzcluster The Politics of Inequality • University of Konstanz</span>
@@ -47,8 +46,8 @@
     <div class="timeline-meta">Remote</div>
     <div class="timeline-desc">Extracted and coded event data following real-time activity reports for BLM protests in the US. R, Alteryx for data management; Tableau for analysis and visualisation.</div>
   </div>
-  </div>
 
+</div>
 
 # Teaching Experience
 
