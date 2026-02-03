@@ -6,7 +6,7 @@
   <div class="timeline-item">
     <span class="timeline-dot"></span>
     <div class="timeline-header">
-      <span class="timeline-org">Exzellenzcluster The Politics of Inequality • University of Konstanz</span>
+      <span class="timeline-org">Exzellenzcluster Politics of Inequality • University of Konstanz</span>
       <span class="timeline-role">Doctoral Fellow</span>
       <span class="timeline-dates">October 2022 – September 2026</span>
     </div>
