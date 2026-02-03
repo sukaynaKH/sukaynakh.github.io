@@ -99,7 +99,35 @@
     <div class="timeline-desc">BA-level: Conflict & Cooperation; Scientific Reasoning (full list on request); Learning Advisor, Applied Learning Committee & Project Leader.</div>
   </div>
   </div>
-  
+
+# Consulting
+
+
+  <div class="timeline">
+
+  <div class="timeline-item">
+    <span class="timeline-dot"></span>
+    <div class="timeline-header">
+      <span class="timeline-org">Frontline</span>
+      <span class="timeline-role">Backend Developer</span>
+      <span class="timeline-dates">August 2022 – March 2023</span>
+    </div>
+    <div class="timeline-meta">Berlin, Germany</div>
+    <div class="timeline-desc">Developed NLP pipeline backend infrastructure to automatically detect narrative framing patterns in digital news coverage of domestic violence.</div>
+  </div>
+
+  <div class="timeline-item">
+    <span class="timeline-dot"></span>
+    <div class="timeline-header">
+      <span class="timeline-org">Triangle</span>
+      <span class="timeline-role">Teaching Fellow</span>
+      <span class="timeline-dates">August 2018 – Jan 2019</span>
+    </div>
+    <div class="timeline-meta">Brighton, UK</div>
+    <div class="timeline-desc">Provided legal advisory and drafting support for a white paper consultation on legal aid access and safeguarding measures for vulnerable victims of crime. </div>
+  </div>
+  </div>
+
 
 # Education
 
