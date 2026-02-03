@@ -7,34 +7,34 @@
 <div class="timeline-item">
     <span class="timeline-dot"></span>
     <div class="timeline-header">
-      <span class="timeline-org">University of Konstanz</span>
+      <span class="timeline-org">Exzellenzcluster The Politics of Inequality • University of Konstanz</span>
       <span class="timeline-role">Doctoral Fellow</span>
-      <span class="timeline-dates">Oct 2022 – Present</span>
+      <span class="timeline-dates">October 2022 – September 2026</span>
     </div>
-    <div class="timeline-meta">Cluster of Excellence, The Politics of Inequality • Konstanz, Germany</div>
-    <div class="timeline-desc">PhD candidate in Politics & Public Administration.</div>
+    <div class="timeline-meta">Konstanz, Germany</div>
+    <div class="timeline-desc">PhD candidate, Graduate School of Social & Behavioural Sciences</div>
   </div>
 
   <div class="timeline-item">
     <span class="timeline-dot"></span>
     <div class="timeline-header">
-      <span class="timeline-org">University of Glasgow</span>
+      <span class="timeline-org">School of Politics & Social Sciences • University of Glasgow</span>
       <span class="timeline-role">Visiting Doctoral Fellow</span>
       <span class="timeline-dates">September – December 2025</span>
     </div>
     <div class="timeline-meta">Glasgow, UK</div>
-    <div class="timeline-desc">Supervisor: Prof. Anja Neundorf.</div>
+    <div class="timeline-desc">Supervisor: Prof. Anja Neundorf</div>
   </div>
 
   <div class="timeline-item">
     <span class="timeline-dot"></span>
     <div class="timeline-header">
-      <span class="timeline-org">WZB, Global Governance Unit</span>
+      <span class="timeline-org">Global Governance Unit • WZB</span>
       <span class="timeline-role">Research Fellow</span>
       <span class="timeline-dates">May 2021 – October 2022</span>
     </div>
     <div class="timeline-meta">Berlin, Germany</div>
-    <div class="timeline-desc">Project researcher for 'Towards a Typology of Contestations' project at Cluster of Excellence SCRIPTS. Trained named entity recognition models; conducted sentiment analysis, latent factor analysis, k-means clustering for data mining.</div>
+    <div class="timeline-desc">Researcher on 'Towards a Typology of Contestations' project at Exzellenzcluster SCRIPTS. Trained named entity recognition models; conducted sentiment analysis, latent factor analysis, k-means clustering for data mining.</div>
   </div>
 
   <div class="timeline-item">
