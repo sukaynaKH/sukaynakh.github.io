@@ -66,7 +66,7 @@
 <div class="publication-card">
     <div class="publication-content">
         <h3 class="publication-title">
-            <a href="" class="publication-link">
+            <a href="https://www.scripts-berlin.eu/publications/working-paper-series/index.html" class="publication-link">
                 Constructing the typology of contestations: A methodology
             </a>
         </h3>
