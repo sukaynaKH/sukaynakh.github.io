@@ -111,7 +111,7 @@
       <span class="timeline-dates">August 2022 – March 2023</span>
     </div>
     <div class="timeline-meta">Berlin, Germany</div>
-    <div class="timeline-desc">Developed NLP pipeline backend infrastructure to automatically detect narrative framing patterns in digital news coverage of domestic violence.</div>
+    <div class="timeline-desc">Developed backend infrastructure and NLP pipeline to automatically detect narrative framing patterns in digital news coverage of domestic violence.</div>
   </div>
 
   <div class="timeline-item">
