@@ -31,4 +31,4 @@ In particular, I examine trust in science and scientists, political communicatio
 
 I work with Python, R, SQL, Bash (often), JS/HTML/CSS (less often), Rust and Go (still learning). 
 
-In my free time, I enjoy strength training, boxing, hiking, and skiing. In a previous life, I qualified as a legal advisor in the UK.
+In my free time, I enjoy strength training, boxing, hiking, and skiing, and volunteering at the local independent cinema. In a previous life, I qualified as a legal advisor in the UK.
