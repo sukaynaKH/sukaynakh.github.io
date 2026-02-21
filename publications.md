@@ -3,7 +3,7 @@
 <div class="publication-card">
     <div class="publication-content">
         <h3 class="publication-title">
-            <a href="https://doi.org/10.1016/" class="publication-link">
+            <a href="https://doi.org/10.1016/j.copsyc.2025.102203" class="publication-link">
                 Mapping patterns of trust in science and scientists
             </a>
         </h3>
@@ -68,7 +68,7 @@
                 Constructing the typology of contestations: A methodology
             </a>
         </h3>
-        <div class="publication-venue">SCRIPTS Working Paper Series #17 • Working Paper</div>
+        <div class="publication-venue">SCRIPTS Working Paper Series • Working Paper</div>
         <div class="publication-authors">Sukayna Younger-Khan, Rebecca Weiss</div>
         <div class="publication-year">2022</div>
         </div>
