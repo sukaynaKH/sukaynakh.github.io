@@ -95,7 +95,7 @@
 <div class="publication-card">
     <div class="publication-content">
         <h3 class="publication-title">
-            <a href="/AgentBreeder" class="publication-link">
+            <a href="" class="publication-link">
                 Navigating instability: How do political transitions reshape scientific collaboration?
             </a>
         </h3>
