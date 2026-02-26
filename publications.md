@@ -9,7 +9,7 @@
         </h3>
         <div class="publication-venue">Current Opinion in Psychology • Journal Article</div>
         <div class="publication-authors">Sukayna Younger-Khan</div>
-        <div class="publication-year">2025</div>
+        <div class="publication-year">2026</div>
         </div>
     </div>
 </div>
@@ -82,7 +82,7 @@
                 Salient cleavages, tactical cooperation and violence between armed groups in Yemen
             </a>
         </h3>
-        <div class="publication-venue">Sage Advance Preprints • Preprint</div>
+        <div class="publication-venue">Sage Advance • Preprint</div>
         <div class="publication-authors">Sukayna Younger-Khan</div>
         <div class="publication-year">2022</div>
         </div>
