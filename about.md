@@ -27,7 +27,7 @@
 
 Welcome! I am a computational social scientist and doctoral fellow at the University of Konstanz. My research investigates science, academia and information systems in comparative contexts.
 
-In my disseratation, I examine trust in science and scientists, political communication about science and technology policy, and the impact of democratic backsliding on academic productivity and collaborations. To answer these questions, I employ a toolkit of computational methods, including natural language processing (rule-based/LLMs), network science, data mining, and causal inference, although I have a soft spot for survey experiments.
+In my dissertation, I investigate trust in science and scientists comparatively, political communication about science and technology policy, and the impact of democratic backsliding on academic collaborations. To answer these questions, I employ a toolkit of computational methods, including natural language processing (rule-based/LLMs), network science, data mining, and causal inference, although I have a soft spot for survey experiments.
 
 I work with Python, R, SQL, Bash (often), JS/HTML/CSS (less often), Rust and Go (learning). 
 
