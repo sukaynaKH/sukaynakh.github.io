@@ -110,11 +110,11 @@
     <div class="publication-content">
         <h3 class="publication-title">
             <a href="" class="publication-link">
-                National science and innovation under the Trump administration
+                Congressional rhetoric, national science and innovation under the Trump administration
             </a>
         </h3>
-        <div class="publication-venue">In Progress</div>
-        <div class="publication-authors">Sukayna Younger-Khan, Segun Aroyehun</div>
+        <div class="publication-venue">In progress</div>
+        <div class="publication-authors">Segun Aroyehun, Sukayna Younger-Khan</div>
         <div class="publication-year">2026</div>
         </div>
     </div>
