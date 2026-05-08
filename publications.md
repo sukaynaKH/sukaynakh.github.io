@@ -31,7 +31,21 @@
 </div>
 
 
-## Preprints & Working Papers
+## Under Review, Preprints & Working Papers
+
+<div class="publication-card">
+    <div class="publication-content">
+        <h3 class="publication-title">
+            <a href="" class="publication-link">
+                Navigating instability: How democratic backsliding reshapes scientific collaboration
+            </a>
+        </h3>
+        <div class="publication-venue">Under Review</div>
+        <div class="publication-authors">Sukayna Younger-Khan</div>
+        <div class="publication-year">2026</div>
+        </div>
+    </div>
+</div>
 
 <div class="publication-card">
     <div class="publication-content">
@@ -96,11 +110,11 @@
     <div class="publication-content">
         <h3 class="publication-title">
             <a href="" class="publication-link">
-                Navigating instability: How do political transitions reshape scientific collaboration?
+                National science and innovation under the Trump administration
             </a>
         </h3>
-        <div class="publication-venue">Working Paper</div>
-        <div class="publication-authors">Sukayna Younger-Khan</div>
+        <div class="publication-venue">In Progress</div>
+        <div class="publication-authors">Sukayna Younger-Khan, Segun Aroyehun</div>
         <div class="publication-year">2026</div>
         </div>
     </div>
