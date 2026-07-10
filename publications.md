@@ -31,7 +31,21 @@
 </div>
 
 
-## Under Review, Preprints & Working Papers
+## Revise & Resubmit
+
+<div class="publication-card">
+    <div class="publication-content">
+        <h3 class="publication-title">
+            <a href="" class="publication-link">
+                Exposure to indoctrination in schools and innovation performance: Evidence from 147 countries
+            </a>
+        </h3>
+        <div class="publication-venue">Public Choice</div>
+        <div class="publication-authors">Sukayna Younger-Khan</div>
+        <div class="publication-year">2025</div>
+        </div>
+    </div>
+</div>
 
 <div class="publication-card">
     <div class="publication-content">
@@ -40,12 +54,14 @@
                 Navigating instability: How democratic backsliding reshapes scientific collaboration
             </a>
         </h3>
-        <div class="publication-venue">Under Review</div>
+        <div class="publication-venue">Research Policy</div>
         <div class="publication-authors">Sukayna Younger-Khan</div>
         <div class="publication-year">2026</div>
         </div>
     </div>
 </div>
+
+## Under Review, Preprints, Working Papers
 
 <div class="publication-card">
     <div class="publication-content">
@@ -64,34 +80,6 @@
 <div class="publication-card">
     <div class="publication-content">
         <h3 class="publication-title">
-            <a href="" class="publication-link">
-                Exposure to indoctrination in schools and innovation performance: Evidence from 147 countries
-            </a>
-        </h3>
-        <div class="publication-venue">Under Review</div>
-        <div class="publication-authors">Sukayna Younger-Khan</div>
-        <div class="publication-year">2025</div>
-        </div>
-    </div>
-</div>
-
-<div class="publication-card">
-    <div class="publication-content">
-        <h3 class="publication-title">
-            <a href="https://www.scripts-berlin.eu/publications/working-paper-series/index.html" class="publication-link">
-                Constructing the typology of contestations: A methodology
-            </a>
-        </h3>
-        <div class="publication-venue">SCRIPTS Working Paper Series • Working Paper</div>
-        <div class="publication-authors">Sukayna Younger-Khan, Rebecca Weiss</div>
-        <div class="publication-year">2022</div>
-        </div>
-    </div>
-</div>
-
-<div class="publication-card">
-    <div class="publication-content">
-        <h3 class="publication-title">
             <a href="https://advance.sagepub.com/doi/10.31124/advance.21623526.v1" class="publication-link">
                 Salient cleavages, tactical cooperation and violence between armed groups in Yemen
             </a>
@@ -102,7 +90,6 @@
         </div>
     </div>
 </div>
-
 
 ## Works in Progress
 
