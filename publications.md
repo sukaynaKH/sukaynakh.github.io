@@ -47,6 +47,8 @@
     </div>
 </div>
 
+## Under Review, Preprints, Working Papers
+
 <div class="publication-card">
     <div class="publication-content">
         <h3 class="publication-title">
@@ -54,14 +56,12 @@
                 Navigating instability: How democratic backsliding reshapes scientific collaboration
             </a>
         </h3>
-        <div class="publication-venue">Research Policy</div>
+        <div class="publication-venue">Under Review</div>
         <div class="publication-authors">Sukayna Younger-Khan</div>
         <div class="publication-year">2026</div>
         </div>
     </div>
 </div>
-
-## Under Review, Preprints, Working Papers
 
 <div class="publication-card">
     <div class="publication-content">
