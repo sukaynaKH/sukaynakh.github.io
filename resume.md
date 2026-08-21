@@ -30,7 +30,7 @@
     <div class="timeline-header">
       <span class="timeline-org">Global Governance Unit • WZB</span>
       <span class="timeline-role">Research Fellow</span>
-      <span class="timeline-dates">May 2021 – October 2022</span>
+      <span class="timeline-dates">May 2021 – September 2022</span>
     </div>
     <div class="timeline-meta">Berlin, Germany</div>
     <div class="timeline-desc">Researcher on 'Towards a Typology of Contestations' project at Exzellenzcluster SCRIPTS. Trained named entity recognition models; conducted sentiment analysis, latent factor analysis, k-means clustering for data mining.</div>
@@ -40,7 +40,7 @@
     <span class="timeline-dot"></span>
     <div class="timeline-header">
       <span class="timeline-org">ACLED Event Data Project</span>
-      <span class="timeline-role">Researcher, Social Movements Team</span>
+      <span class="timeline-role">Research Analyst, Social Movements Team</span>
       <span class="timeline-dates">May – December 2020</span>
     </div>
     <div class="timeline-meta">Remote</div>
@@ -91,7 +91,7 @@
     <span class="timeline-dot"></span>
     <div class="timeline-header">
       <span class="timeline-org">University of Essex</span>
-      <span class="timeline-role">Teaching Fellow</span>
+      <span class="timeline-role">Instructor</span>
       <span class="timeline-dates">Sep 2019 – May 2021</span>
     </div>
     <div class="timeline-meta">Essex, UK</div>
@@ -107,7 +107,7 @@
     <span class="timeline-dot"></span>
     <div class="timeline-header">
       <span class="timeline-org">Frontline</span>
-      <span class="timeline-role">Backend Developer</span>
+      <span class="timeline-role">Backend Developer & Consultant</span>
       <span class="timeline-dates">August 2022 – March 2023</span>
     </div>
     <div class="timeline-meta">Berlin, Germany</div>
@@ -135,12 +135,12 @@
   <div class="timeline-item">
     <span class="timeline-dot"></span>
     <div class="timeline-header">
-      <span class="timeline-org">University of Konstanz • In progress</span>
+      <span class="timeline-org">University of Konstanz • Expected Nov 2026</span>
       <span class="timeline-role">PhD Candidate</span>
       <span class="timeline-dates">October 2022 – September 2026</span>
     </div>
     <div class="timeline-meta">Konstanz, Germany</div>
-    <div class="timeline-desc">Comparative Politics, Computational Methods. Working title: "Under Pressure: A New Age of Science in Non-Democracies". Committee: Nils B. Weidmann; David Garcia; Anja Neundorf</div>
+    <div class="timeline-desc">Comparative Politics, Science Studies, Computational Methods. Title: "Under Pressure: A New Age of Science in Autocracies". Committee: Nils B. Weidmann; David Garcia; Anja Neundorf. Submitted: 30 July 2026, Defence: 6 November 2026</div>
   </div>
 
   <div class="timeline-item">
@@ -151,7 +151,7 @@
       <span class="timeline-dates">December 2020</span>
     </div>
     <div class="timeline-meta">Colchester, UK</div>
-    <div class="timeline-desc">Conflict Studies, Computational Methods. Thesis: "How to Lose Friends and Alienate People: A Network Analysis of Cooperation and Conflict between Non-State Armed Groups in Yemen". Supervisor: Philip Leifeld. Examiner: Kristian Skrede Gleditsch</div>
+    <div class="timeline-desc">Comparative Politics, Conflict Studies, Computational Methods. Thesis: "How to Lose Friends and Alienate People: A Network Analysis of Cooperation and Conflict between Non-State Armed Groups in Yemen". Supervisor: Philip Leifeld. Examiner: Kristian Skrede Gleditsch</div>
   </div>
 
   <div class="timeline-item">
