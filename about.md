@@ -41,4 +41,4 @@ In my thesis, I investigate political communication about science and technology
 
 I work with Python, R, SQL, Bash (often), Javascript, HTML/CSS (less often), Rust and Go (learning). 
 
-In my spare time, I enjoy strength training, boxing, hiking, skiing, and volunteering at the local independent cinema. In an early life, I qualified as a legal advisor in the UK.
+In my free time, I enjoy strength training, boxing, hiking, skiing, and volunteering at the local independent cinema. In an early life, I qualified as a legal advisor in the UK.
