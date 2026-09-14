@@ -97,11 +97,25 @@
     <div class="publication-content">
         <h3 class="publication-title">
             <a href="" class="publication-link">
-                Congressional rhetoric, national science and innovation under the Trump administration
+                Politicization of science in congressional speeches and public trust in the United States
             </a>
         </h3>
         <div class="publication-venue">In progress</div>
         <div class="publication-authors">Segun Aroyehun, Sukayna Younger-Khan</div>
+        <div class="publication-year">2026</div>
+        </div>
+    </div>
+</div>
+
+<div class="publication-card">
+    <div class="publication-content">
+        <h3 class="publication-title">
+            <a href="" class="publication-link">
+                Securitization of knowledge: EU-China scientific cooperation in the shadow of artificial intelligence
+            </a>
+        </h3>
+        <div class="publication-venue">In progress</div>
+        <div class="publication-authors">Sukayna Younger-Khan</div>
         <div class="publication-year">2026</div>
         </div>
     </div>
