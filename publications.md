@@ -37,6 +37,20 @@
     <div class="publication-content">
         <h3 class="publication-title">
             <a href="" class="publication-link">
+                Navigating instability: How democratic backsliding reshapes scientific collaboration
+            </a>
+        </h3>
+        <div class="publication-venue">Research Policy</div>
+        <div class="publication-authors">Sukayna Younger-Khan</div>
+        <div class="publication-year">2026</div>
+        </div>
+    </div>
+</div>
+
+<div class="publication-card">
+    <div class="publication-content">
+        <h3 class="publication-title">
+            <a href="" class="publication-link">
                 Exposure to indoctrination in schools and innovation performance: Evidence from 147 countries
             </a>
         </h3>
@@ -48,20 +62,6 @@
 </div>
 
 ## Under Review, Preprints, Working Papers
-
-<div class="publication-card">
-    <div class="publication-content">
-        <h3 class="publication-title">
-            <a href="" class="publication-link">
-                Navigating instability: How democratic backsliding reshapes scientific collaboration
-            </a>
-        </h3>
-        <div class="publication-venue">Under Review</div>
-        <div class="publication-authors">Sukayna Younger-Khan</div>
-        <div class="publication-year">2026</div>
-        </div>
-    </div>
-</div>
 
 <div class="publication-card">
     <div class="publication-content">
