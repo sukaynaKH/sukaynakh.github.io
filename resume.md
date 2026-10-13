@@ -6,6 +6,17 @@
   <div class="timeline-item">
     <span class="timeline-dot"></span>
     <div class="timeline-header">
+      <span class="timeline-org">Politics & Public Administration • University of Konstanz</span>
+      <span class="timeline-role">Postdoctoral Researcher</span>
+      <span class="timeline-dates">October 2026 – December 2026</span>
+    </div>
+    <div class="timeline-meta">Konstanz, Germany</div>
+    <div class="timeline-desc"></div>
+  </div>
+
+  <div class="timeline-item">
+    <span class="timeline-dot"></span>
+    <div class="timeline-header">
       <span class="timeline-org">Exzellenzcluster Politics of Inequality • University of Konstanz</span>
       <span class="timeline-role">Doctoral Fellow</span>
       <span class="timeline-dates">October 2022 – September 2026</span>
@@ -81,7 +92,7 @@
     <div class="timeline-header">
       <span class="timeline-org">Hertie School of Governance</span>
       <span class="timeline-role">Teaching Assistant</span>
-      <span class="timeline-dates">Sep 2021 – Dec 2021</span>
+      <span class="timeline-dates">September 2021 – December 2021</span>
     </div>
     <div class="timeline-meta">Berlin, Germany</div>
     <div class="timeline-desc">MA-level: Advanced Statistics course. </div>
@@ -92,7 +103,7 @@
     <div class="timeline-header">
       <span class="timeline-org">University of Essex</span>
       <span class="timeline-role">Instructor</span>
-      <span class="timeline-dates">Sep 2019 – May 2021</span>
+      <span class="timeline-dates">September 2019 – May 2021</span>
     </div>
     <div class="timeline-meta">Essex, UK</div>
     <div class="timeline-desc">BA-level: Conflict & Cooperation; Scientific Reasoning (full list on request); Learning Advisor, Applied Learning Committee & Project Leader.</div>
@@ -119,7 +130,7 @@
     <div class="timeline-header">
       <span class="timeline-org">Triangle</span>
       <span class="timeline-role">Legal Advisor</span>
-      <span class="timeline-dates">August 2018 – Jan 2019</span>
+      <span class="timeline-dates">August 2018 – January 2019</span>
     </div>
     <div class="timeline-meta">Brighton, UK</div>
     <div class="timeline-desc">Provided legal advisory and drafting support for a white paper consultation on legal aid access and safeguarding measures for vulnerable victims of crime. </div>
@@ -159,7 +170,7 @@
     <div class="timeline-header">
       <span class="timeline-org">University of Sussex</span>
       <span class="timeline-role">Master of Laws International Law • Distinction</span>
-      <span class="timeline-dates">Jan 2019</span>
+      <span class="timeline-dates">January 2019</span>
     </div>
     <div class="timeline-meta">Brighton, UK</div>
     <div class="timeline-desc">Empirical Legal Studies, Law of Armed Conflict. Awarded Best Overall Masters Student</div>
