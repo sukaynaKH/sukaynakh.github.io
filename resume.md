@@ -11,7 +11,6 @@
       <span class="timeline-dates">October 2026 – December 2026</span>
     </div>
     <div class="timeline-meta">Konstanz, Germany</div>
-    <div class="timeline-desc"></div>
   </div>
 
   <div class="timeline-item">
@@ -22,7 +21,6 @@
       <span class="timeline-dates">October 2022 – September 2026</span>
     </div>
     <div class="timeline-meta">Konstanz, Germany</div>
-    <div class="timeline-desc">PhD candidate, Graduate School of Social & Behavioural Sciences</div>
   </div>
 
   <div class="timeline-item">
@@ -33,7 +31,6 @@
       <span class="timeline-dates">September – December 2025</span>
     </div>
     <div class="timeline-meta">Glasgow, UK</div>
-    <div class="timeline-desc">Supervisor: Prof. Anja Neundorf</div>
   </div>
 
   <div class="timeline-item">
@@ -44,7 +41,6 @@
       <span class="timeline-dates">May 2021 – September 2022</span>
     </div>
     <div class="timeline-meta">Berlin, Germany</div>
-    <div class="timeline-desc">Researcher on 'Towards a Typology of Contestations' project at Exzellenzcluster SCRIPTS. Trained named entity recognition models; conducted sentiment analysis, latent factor analysis, k-means clustering for data mining.</div>
   </div>
 
   <div class="timeline-item">
@@ -55,7 +51,6 @@
       <span class="timeline-dates">May – December 2020</span>
     </div>
     <div class="timeline-meta">Remote</div>
-    <div class="timeline-desc">Extracted and coded event data following real-time activity reports for BLM protests in the US. R, Alteryx for data management; Tableau for analysis and visualisation.</div>
   </div>
 
 </div>
@@ -151,7 +146,7 @@
       <span class="timeline-dates">October 2022 – September 2026</span>
     </div>
     <div class="timeline-meta">Konstanz, Germany</div>
-    <div class="timeline-desc">Comparative Politics, Science Studies, Computational Methods. Title: "Under Pressure: A New Age of Science in Autocracies". Committee: Nils B. Weidmann; David Garcia; Anja Neundorf. Submitted: 30 July 2026, Defence: 6 November 2026</div>
+    <div class="timeline-desc">Comparative Politics, Science Studies, Computational Methods. Title: "Under Pressure: A New Age of Science in Autocracies". Committee: Nils B. Weidmann; David Garcia; Anja Neundorf.</div>
   </div>
 
   <div class="timeline-item">
